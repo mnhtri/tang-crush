@@ -1,16 +1,13 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'helu prin xừ 1tháng trước của mtri!',
+    introDesc: `mtri chỉ  muốn nói mtri vẫn yêu qgiao 🥺`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
+    title: 'hoàng tử đã ổn chưa nè , hmmm mtri muốn nói là mình quay lại được hong🥺',
+    desc: 'mình quay lại với nhau đượt hong 🥺 ? ',
+    btnYes: 'oki nè ',
+    btnNo: 'không quay lại đc nè ',
+    question:'qgiao thấy k đc thì coi như đây là một web hay(maybe là z) mà mtri cũng như là 1 cái trend tretrau mà mtri làm thôi ha ',
+    btnReply: 'reply to mtri nè ',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
